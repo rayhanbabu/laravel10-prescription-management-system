@@ -101,14 +101,14 @@
             </div>
   
             <div class="col-lg-6 ">
-                <label for="roll"> Header Image (Max:500KB)</label>
+                <label for="roll"> Header Image (height:199, width:918) </label>
                 <input type="file" name="image" id="image" class="form-control" placeholder="" >
                 <p class="text-danger error_image"></p>
             </div>
 
           
             <div class="col-lg-6 ">
-                <label for="roll"> Footer Image (Max:500KB)</label>
+                <label for="roll"> Footer Image (height:314, width:918) </label>
                 <input type="file" name="image1" id="image1" class="form-control" placeholder="" >
                 <p class="text-danger error_image1"></p>
             </div>
@@ -177,13 +177,13 @@
   
 
             <div class="col-lg-6 ">
-                <label for="roll"> Header Image (Max:500KB)</label>
+                <label for="roll"> Header Image (height:199 width:918)</label>
                 <input type="file" name="image" id="image" class="form-control" placeholder="" >
                 <p class="text-danger error_image"></p>
             </div>
           
             <div class="col-lg-6 ">
-                <label for="roll"> Footer Image (Max:500KB)</label>
+                <label for="roll"> Footer Image (height: 314 width:918 )</label>
                 <input type="file" name="image1" id="image1" class="form-control" placeholder="" >
                 <p class="text-danger error_image1"></p>
             </div>
